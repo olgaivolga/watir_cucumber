@@ -1,4 +1,4 @@
 watir_cucumber
 ==============
 
-Trung watir-webdriver with cucumber
+Trying watir-webdriver with cucumber
